@@ -57,7 +57,7 @@ This group of repositories is part of my CGI Programming Learning Path.
 
 ### Built With
 
-* [WIN32 API](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
+* [GLFW](https://www.glfw.org/)
 * [GLAD Library](https://glad.dav1d.de/)
 
 
@@ -102,7 +102,6 @@ Project Link: [https://github.com/Eversmile12/OpenGLNative](https://github.com/E
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Resources
-
-* [Hands-On C++ Game Animation Programming - Gabor Szauer](https://www.packtpub.com/product/hands-on-c-game-animation-programming/9781800208087)
-* [WIN32 API](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
+* [GLFW](https://www.glfw.org/)
 * [GLAD Library](https://glad.dav1d.de/)
+* [The Cherno - OpenGL](https://www.youtube.com/watch?v=W3gAzLwfIP0)
